@@ -1,6 +1,9 @@
 {
   "name": "fresh",
   "version": "1.0.0",
+  "engines": {
+    "node": "12.6.0"
+  },
   "description": "bruh",
   "main": "index.js",
   "scripts": {
