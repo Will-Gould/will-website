@@ -5,7 +5,7 @@ import StyledSection from './styles/StyledSection'
 function Section(){
     return(
         <StyledSection>
-            
+            <h1>Bruh</h1>
         </StyledSection>
     )
 }
