@@ -1,5 +1,6 @@
 import React from "react"
 import GlobalStyle from './components/styles/GlobalStyle'
+import StyledMain from './components/styles/StyledMain'
 
 import NavBar from './components/NavBar'
 import Hero from './components/Hero'
@@ -22,12 +23,13 @@ class App extends React.Component {
 
     render() {
         return (
-            <div>
+            <StyledMain>
                 <GlobalStyle />
                 <NavBar />
                 <Hero />
-                <Section />
-            </div>
+                <Section heading="Cool Zone" error="true" />
+                <Section coolContent="true" />
+            </StyledMain>
         )
     }
 }

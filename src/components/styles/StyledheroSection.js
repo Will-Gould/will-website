@@ -1,10 +1,14 @@
 import styled from 'styled-components'
 
-
-const StyledHero = styled.div`
-    margin-left: auto;
-    margin-right: auto;
-    padding: 20px;
+const StyledHeroSection = styled.div`
+    width: 100%;
+    background-color: #4AE1FF;
+    color: #0e1111;
+    text-align: center;
+    font-size: 35px;
+    padding-top: 50px;
+    display: inline-block;
+    padding-bottom: 50px;
     h1{
         font-family: 'Megrim', cursive;
         font-size: 150px;
@@ -19,8 +23,7 @@ const StyledHero = styled.div`
         font-family: 'Raleway', sans-serif;
         font-weight: 300;
     }
-    img{
-    }
+
 `;
 
-export default StyledHero;
+export default StyledHeroSection;
