@@ -19,9 +19,13 @@
     "@fortawesome/free-brands-svg-icons": "^5.12.1",
     "@fortawesome/free-solid-svg-icons": "^5.12.1",
     "@fortawesome/react-fontawesome": "^0.1.9",
+    "build-url": "^2.0.0",
     "dotenv-webpack": "^1.7.0",
+    "file-loader": "^6.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-instafeed": "^1.0.0",
+    "reactjs-popup": "^1.5.0",
     "styled-components": "^5.0.1"
   },
   "devDependencies": {
