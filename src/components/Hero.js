@@ -2,6 +2,7 @@ import React from "react"
 
 import ImageContainer from './ImageContainer'
 import Button from './Button'
+import HelloWorldSlider from './HelloWorldSlider'
 
 import StyledHero from './styles/StyledHero'
 import StyledHeroSection from './styles/StyledHeroSection'
@@ -16,9 +17,9 @@ const image = {
 function Hero(){
     return(
         <StyledHeroSection>
+            <HelloWorldSlider />
             <StyledHero>
                 <h1>WILL GOULD</h1>
-                <h2>HELLO WORLD HELLO WORLD HELLO WORLD HELLO WORLD HELLO WORLD HELLO WORLD HELLO</h2>
             </StyledHero>
             <ImageContainer image={img} heading={image.heading} />
             <Button />

@@ -6,7 +6,6 @@ const StyledHeroSection = styled.div`
     color: #0e1111;
     text-align: center;
     font-size: 35px;
-    padding-top: 50px;
     display: inline-block;
     padding-bottom: 50px;
     h1{
