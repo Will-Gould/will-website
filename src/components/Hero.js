@@ -19,7 +19,7 @@ function Hero(){
         <StyledHeroSection>
             <HelloWorldSlider />
             <StyledHero>
-                <h1>WILL GOULD</h1>
+                <h1>WILL GOUL</h1>
             </StyledHero>
             <Button />
         </StyledHeroSection>
