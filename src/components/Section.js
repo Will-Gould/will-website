@@ -30,7 +30,7 @@ class Section extends React.Component{
                     <p>
                     Furthermore, it is apparent that I have absolutely zero regard for design conventions. Some would see this as a threat to order and a definate cause 
                     for users to abandon a platform. To those people I say good riddance, because they obviously have no appreciation for art and if all they care about 
-                    is "minimalist design" then they are robots that smell like soap (and probably communists).
+                    is "minimalist design" then they are robots that smell like soap (and are probably communists).
                     </p>
                     <br/>
                     <p>
