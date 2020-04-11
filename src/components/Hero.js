@@ -8,7 +8,7 @@ import StyledHero from './styles/StyledHero'
 import StyledHeroSection from './styles/StyledHeroSection'
 
 const image = {
-    url: img,
+    url: "bruh",
     heading: 'Me in Berlin'
 }
 
