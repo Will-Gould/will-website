@@ -1,6 +1,7 @@
 import React from "react"
 
 import Error from './Error'
+import Console from './Console'
 
 import StyledSection from './styles/StyledSection'
 
@@ -40,7 +41,8 @@ class Section extends React.Component{
                     and the IDE that i'm using does not check it.
                     </p>
                     <img src={gif} gif="true" />
-                </div> 
+                    <Console />
+                </div>
                 : null}
             </StyledSection>
         )
